@@ -7,3 +7,9 @@
 .greytext {
     color: grey;
 }
+
+.grcontainer {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: auto auto auto auto;
+}
